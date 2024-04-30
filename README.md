@@ -1,16 +1,14 @@
-### Hi there 👋
+# Antonio Carlos de Lima Júnior
 
-<!--
-**acnaweb/acnaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+![Acnaweb's github stats](https://github-readme-stats.vercel.app/api?username=acnaweb&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+  <a href="https://in.linkedin.com/in/acnaweb">AC | Linkedin
+  </a>
+  
+<br><br><br><br>
+
+**⭐️ From [acnaweb](https://github.com/acnaweb)**
