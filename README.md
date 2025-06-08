@@ -1,38 +1,77 @@
-### Eu sou o AC 👋
+# 👋 Olá, eu sou **Antonio Carlos de Lima Júnior** (aka **AC** / **acnaweb**)
 
-<h3 align="left">Connect with me!</h3>
+**🧠 Machine Learning Engineer | 💻 Software Engineer | ☕ Java & 🐍 Python Specialist**  
+📍 São Paulo, Brasil  
+🔗 [LinkedIn](https://www.linkedin.com/in/acnaweb/)  
+📫 ac@marketmining.com.br
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5EAAE8&color:FFF)](https://www.linkedin.com/in/acnaweb/)
+---
 
-<h3 align="left">My Stack</h3>
+## 🚀 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-  <img width="8" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  height="25" alt="kubernetes logo" />
-  <img width="8" />          
-</div>
+Sou um engenheiro apaixonado por criar soluções escaláveis, inteligentes e bem arquitetadas. Tenho mais de 20 anos de experiência em TI, com foco atual em **Engenharia de Dados**, **Machine Learning**, **MLOps** e **DevOps** no setor bancário.
 
-<h3>GitHub Stats</h3>
+🔧 Trabalho com tecnologias modernas, entregando projetos desde APIs robustas até pipelines completos de dados e IA em produção.
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=acnaweb&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=5EAAE8&text_color=FFF&border_radius=3&border_color=5EAAE8&icon_color=5EAAE8&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=acnaweb&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=5EAAE8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=5EAAE8&count_private=true)](https://github.com/acnaweb/github-readme-stats)
-<br>
-    
-### Packages I created
+🎓 Além disso, atuo como mentor e instrutor em bootcamps, treinamentos e cursos técnicos.
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acnaweb&repo=mlops)](https://github.com/acnaweb/mlops)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acnaweb&repo=dataops)](https://github.com/acnaweb/dataops)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acnaweb&repo=database)](https://github.com/acnaweb/database)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acnaweb&repo=python)](https://github.com/acnaweb/python)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acnaweb&repo=devops)](https://github.com/acnaweb/devops)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acnaweb&repo=data-charts)](https://github.com/acnaweb/data-charts)
+---
 
+## 📌 Repositórios em Destaque
+
+| Projeto | Descrição | Tecnologias | Preview |
+|--------|-----------|-------------|---------|
+| [**dataops**](https://github.com/acnaweb/dataops) | Automação e versionamento de pipelines de dados. | ![Stars](https://img.shields.io/github/stars/acnaweb/dataops?style=flat&logo=github) ![Language](https://img.shields.io/github/languages/top/acnaweb/dataops?style=flat&logo=python&color=blue) | ![dataops-demo](https://raw.githubusercontent.com/acnaweb/dataops/main/demo.gif) |
+| [**api**](https://github.com/acnaweb/api) | API RESTful com Java, Spring Boot, documentação OpenAPI. | ![Stars](https://img.shields.io/github/stars/acnaweb/api?style=flat&logo=github) ![Language](https://img.shields.io/github/languages/top/acnaweb/api?style=flat&logo=java&color=red) | ![api-screenshot](https://raw.githubusercontent.com/acnaweb/api/main/docs/api.png) |
+| [**devops**](https://github.com/acnaweb/devops) | Pipeline CI/CD com GitHub Actions e deploy Azure. | ![Stars](https://img.shields.io/github/stars/acnaweb/devops?style=flat&logo=github) ![Language](https://img.shields.io/github/languages/top/acnaweb/devops?style=flat&logo=go&color=teal) | ![devops-diagram](https://raw.githubusercontent.com/acnaweb/devops/main/diagram.svg) |
+| [**mlops**](https://github.com/acnaweb/mlops) | End-to-end MLOps: MLflow, DVC, Gradio, CI/CD. | ![Stars](https://img.shields.io/github/stars/acnaweb/mlops?style=flat&logo=github) ![Language](https://img.shields.io/github/languages/top/acnaweb/mlops?style=flat&logo=python&color=yellow) | ![mlops-demo](https://raw.githubusercontent.com/acnaweb/mlops/main/demo.gif) |
+| [**iac**](https://github.com/acnaweb/iac) | Infraestrutura como Código com Terraform GCP/Azure. | ![Stars](https://img.shields.io/github/stars/acnaweb/iac?style=flat&logo=github) ![Language](https://img.shields.io/github/languages/top/acnaweb/iac?style=flat&logo=terraform&color=purple) | ![iac-screenshot](https://raw.githubusercontent.com/acnaweb/iac/main/README.gif) |
+| [**git**](https://github.com/acnaweb/git) | Tutoriais e exercícios práticos de Git e GitHub. | ![Stars](https://img.shields.io/github/stars/acnaweb/git?style=flat&logo=github) ![Language](https://img.shields.io/github/languages/top/acnaweb/git?style=flat&logo=git&color=orange) | ![git-demo](https://raw.githubusercontent.com/acnaweb/git/main/demo.png) |
+
+---
+
+## 🧠 Habilidades Técnicas
+
+### 🔬 Machine Learning & MLOps
+- **Frameworks:** scikit-learn, MLflow, SHAP, Gradio, BentoML  
+- **Pipelines:** GitHub Actions, DVC, Airflow, CD4ML  
+- **Modelos:** classificação, regressão, explainability
+
+### ⚙️ Engenharia de Software
+- **Java 17+**, **Spring Boot**, **REST APIs**, **Testes Automatizados**  
+- **Python**, **FastAPI**, **Flask**, **Loguru**, **Typer**
+
+### 🗃️ Banco de Dados e Dados
+- **PostgreSQL**, **MySQL**, **Oracle**, **MongoDB**, **Neo4J**  
+- **DataOps**: Terraform, BigQuery, GCP, dbt, Airflow
+
+### 🧪 DevOps e Infraestrutura
+- **Docker**, **Docker Compose**, **Kubernetes**, **GitHub Actions**  
+- **CI/CD**, **Terraform**, **Monitoramento**
+
+---
+
+## 🏆 Conquistas
+
+- 🧊 Arctic Code Vault Contributor  
+- 🌟 Desenvolvedor ativo de código aberto  
+- 👨‍🏫 Educador e mentor técnico em diversas formações
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acnaweb&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acnaweb&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🤝 Vamos nos conectar!
+
+- 💬 Feedbacks, colaborações e sugestões são sempre bem-vindos.
+- 🔄 Acesse os repositórios, siga, contribua, estude e compartilhe.
+
+---
+
+**Obrigado por visitar!** 🙌  
+Siga-me no GitHub para atualizações contínuas e novos projetos.
